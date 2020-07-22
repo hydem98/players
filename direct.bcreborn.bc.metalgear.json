@@ -1,5 +1,5 @@
 {
- "name"         : "Direct -  [COLOR FF0084FF]-[/COLOR] bcreborn ",
+ "name"         : "Direct [COLOR FF0084FF]-bcreborn [/COLOR] ",
  "repository"   : "repository.MadHouse",
  "plugin"       : "plugin.video.bcreborn",
  "priority"     : 200,
